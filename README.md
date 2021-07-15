@@ -44,9 +44,32 @@ El principio de superposición establece que la respuesta (una corriente o tensi
 ------------------------
 ----------------------
 ---------------------
+# 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-# 3.	DIAGRAMAS
  
+La aplicación del principio de superposición en el análisis de un circuito eléctricos comprende los siguientes pasos:
+
+*	 Apagar todas las fuentes independientes excepto una. Calcular la salida (tensión o corriente) debido a la única fuente activa.
+
+* 	Repetir el paso anterior para cada una de las fuentes independientes presentes en el circuito.
+
+* 	La contribución total viene dada por la suma algebraica de las contribuciones de cada una de los voltajes  en las fuentes independientes.
+
+*  La contribución total viene dada por la resta algebraica de las contribuciones de cada una de las corrientes en las fuentes independientes.
+
+*  Arme el circuito.
+
+*  Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
+tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
+el valor de las mediciones en la tabla.
+
+*  Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
+IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla.
+
+*  Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
+IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla.
 
 Aplicando superposición sabemos que:
  
@@ -55,8 +78,6 @@ Donde Vo1 es la salida forzada o resultante de la influencia de la fuente de ten
 * Figura, Circuito Teórico para el análisis de mallas:
 
 ![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/Circuito%20Teorico.jpg)
-
-
 
 * Circuito Experimental y simulado para el analisis de malla, medidos con multímetro respectivo a la corrriente de cada malla:
 
@@ -70,45 +91,9 @@ Donde Vo1 es la salida forzada o resultante de la influencia de la fuente de ten
 
 ![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/circuito%20simulado%20v2%200.jpg)
 
-# 4. LISTA DE COMPONENTES
-
-Lista de Materiales y componetes necesarios para desarrollar el circuito expirementalmente y simularlo:
-
-![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/Equipos%20y%20Materiales.jpg)
-
-# 5. EXPLICACIÓN
-
- 
-La aplicación del principio de superposición en el análisis de un circuito eléctricos comprende los siguientes pasos:
-
-*	 Apagar todas las fuentes independientes excepto una. Calcular la salida (tensión o corriente) debido a la única fuente activa.
-
-* 	Repetir el paso anterior para cada una de las fuentes independientes presentes en el circuito.
-
-* 	La contribución total viene dada por la suma algebraica de las contribuciones de cada una de los voltajes  en las fuentes independientes.
-
-* La contribución total viene dada por la resta algebraica de las contribuciones de cada una de las corrientes en las fuentes independientes.
 
 
-# 6.- DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
-
-En este punto se debe explicar cómo funcionan la implementación del circuito o programa.
-
-* Arme el circuito.
-
-* Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
-tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
-el valor de las mediciones en la tabla.
-
-* Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
-IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
-proporcionan. Anote el valor de las mediciones en la tabla.
-
-* Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
-IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
-proporcionan. Anote el valor de las mediciones en la tabla.
-
-# 8. APORTACIONES
+# 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 Tabla de Registro de datos tomandos del Experimento:
 
@@ -136,8 +121,12 @@ Formula a aplicar para el calculo del ERROR:
 
 ![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/calculo%20error.jpg)
 
+# 5. VIDEO
 
-# 9.	CONCLUSIONES
+* aca ira el link del video 
+
+
+# 6.	CONCLUSIONES
 
 * La superposición es una técnica muy útil para añadir a tu conjunto de herramientas que sirve para analizar circuitos. Usa la superposición cuando tengas un circuito con entradas múltiples o múltiples fuentes de poder.
 
@@ -147,7 +136,7 @@ con varias fuentes con el Teorema de Superposición.
 * Obervamos que las fuentes de voltaje igualadas a cero equivalen a un corto circuito, mientras que
 las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
 
-# 10.	BIBLIOGRAFÍA
+# 7.	BIBLIOGRAFÍA
 
 Rodríguez, H. (19 de Octubre de 2017). lifeder. Obtenido de
 
@@ -161,11 +150,7 @@ Recuperado de:
 
      https://dademuch.com/2019/11/08/principio-de-superposicion-analisis-de-circuitos-electricos/
 
-# 11. ANEXOS
+RUBRICA
 
-* Calculos a mano:
-
-      https://github.com/eddy90cg/Laboratorio_4/blob/main/Anexos/calculos%20a%20mano.pdf
-   
-
+    https://github.com/doalulema/InformeLaboratorio/blob/main/Laboratorio.png
 
