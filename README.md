@@ -152,5 +152,5 @@ Recuperado de:
 
 RUBRICA
 
-    https://github.com/doalulema/InformeLaboratorio/blob/main/Laboratorio.png
+   ![](https://github.com/eddy90cg/Laboratorio_4/blob/main/Anexos/rubrica.jpg)
 
