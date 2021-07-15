@@ -165,7 +165,7 @@ Recuperado de:
 
 * Calculos a mano:
 
-      https://github.com/eddy90cg/lab-3-fce/blob/master/Anexos/calculos%20a%20mano.pdf
+      https://github.com/eddy90cg/Laboratorio_4/blob/main/Anexos/calculos%20a%20mano.pdf
    
 
 
