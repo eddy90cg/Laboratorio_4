@@ -202,7 +202,7 @@ Para poder encontrar los valores de la corriente para cada malla se aplicaron lo
 
 # 5. VIDEO
 
-* aca ira el link del video 
+* https://youtu.be/qQK7HscT4E8
 
 
 # 6.	CONCLUSIONES
