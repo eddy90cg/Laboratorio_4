@@ -134,7 +134,7 @@ Para poder encontrar los valores de la corriente para cada malla se aplicaron lo
 
 * Encontramos la resistencia equivalente entre las resistencias de **1k** y **2.2k**
 
-<img src="https://latex.codecogs.com/gif.latex?\frac{1}{Req}=\frac{1&plus;2.2}{(1)(2.2)}&space;=&space;0.68\&space;\Omega" title="\frac{1}{Req}=\frac{1+2.2}{(1)(2.2)} = 0.68\ \Omega" />
+<img src="https://latex.codecogs.com/gif.latex?\frac{1}{Req}=\frac{1&plus;2.2}{(1)(2.2)}&space;=&space;0.68\&space;k&space;\Omega" title="\frac{1}{Req}=\frac{1+2.2}{(1)(2.2)} = 0.68\ k \Omega" />
 
 * Y obtenemos el siguiente circuito:
 
