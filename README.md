@@ -139,13 +139,15 @@ Para poder econtrar los valores de la corriente para cada malla se aplicaron los
 
 ![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/calculos.jpg)
 
-* Obtenemos como resultados finales para el cricuito Total:
+* Obtenemos como resultados finales para el circuito total:
 
 ![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/calculos%20finales.jpg)
 
 Formula a aplicar para el calculo del ERROR: 
 
-![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/calculo%20error.jpg)
+<img src="https://latex.codecogs.com/gif.latex?\mathrm{Porcentaje\&space;de\&space;Error\&space;en\&space;el\&space;Voltaje:}&space;\\&space;\\&space;%\&space;Error&space;=&space;\frac{V_T(Teorico)-V_T(Practico)}{V_T(Teorico)}\times&space;100" title="\mathrm{Porcentaje\ de\ Error\ en\ el\ Voltaje:} \\ \\ %\ Error = \frac{V_T(Teorico)-V_T(Practico)}{V_T(Teorico)}\times 100" />
+
+<img src="https://latex.codecogs.com/gif.latex?\mathrm{Porcentaje\&space;de\&space;Error\&space;en\&space;la\&space;Corriente:}&space;\\&space;\\&space;%\&space;Error&space;=&space;\frac{I_T(Teorico)-I_T(Practico)}{I_T(Teorico)}\times&space;100" title="\mathrm{Porcentaje\ de\ Error\ en\ la\ Corriente:} \\ \\ %\ Error = \frac{I_T(Teorico)-I_T(Practico)}{I_T(Teorico)}\times 100" />
 
 # 5. VIDEO
 
