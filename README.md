@@ -128,9 +128,17 @@ Porcentaje de Error Obtenido para **(Ix)**:
 
 Para poder encontrar los valores de la corriente para cada malla se aplicaron los siguientes cálculos:
 
-* Primero reemplazamos la fuente de 20 V por un corto circuito:
+* Primero reemplazamos la fuente de **20 V** por un corto circuito:
 
-![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/diagrama%20para%20v1%200.jpg)
+![](https://github.com/eddy90cg/Laboratorio_4/blob/main/Img/Fuente%20de%2020V%20Circuitada.jpeg)
+
+* Encontramos la resistencia equivalente entre las resistencias de **1k** y **2.2k**
+
+<img src="https://latex.codecogs.com/gif.latex?\frac{1}{Req}=\frac{1&plus;2.2}{(1)(2.2)}&space;=&space;0.68\&space;\Omega" title="\frac{1}{Req}=\frac{1+2.2}{(1)(2.2)} = 0.68\ \Omega" />
+
+* Y obtenemos el siguiente circuito:
+
+
 
 ![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/diagrama%20para%20v2%200.jpg)
 
