@@ -77,7 +77,7 @@ Donde Vo1 es la salida forzada o resultante de la influencia de la fuente de ten
 
 * Figura, Circuito Teórico para el análisis de mallas:
 
-![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/Circuito%20Teorico.jpg)
+![](https://github.com/eddy90cg/Laboratorio_4/blob/main/Img/Diagrama%20Esquematico%20de%20Circuito.jpeg)
 
 * Circuito Experimental y simulado para el analisis de malla, medidos con multímetro respectivo a la corrriente de cada malla:
 
