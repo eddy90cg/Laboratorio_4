@@ -85,7 +85,7 @@ Donde Vo1 es la salida forzada o resultante de la influencia de la fuente de ten
 
 * Circuito Experimental y simulado para el analisis de malla, medidos con multímetro respectivo a la corrriente de cada malla:
 
-![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/circuito%20simulado.jpg)
+![](https://github.com/eddy90cg/Laboratorio_4/blob/main/Img/Simulacion%20de%20Circuito.jpeg)
 
 *  Circuito Experimental con v1 cortocircuitado:
 
