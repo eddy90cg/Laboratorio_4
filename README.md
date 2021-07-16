@@ -138,7 +138,7 @@ Para poder encontrar los valores de la corriente para cada malla se aplicaron lo
 
 * Y obtenemos el siguiente circuito:
 
-![](https://github.com/eddy90cg/Laboratorio_4/blob/main/Img/Circuito%20Simplificado%20con%20Fuente%20de%2012V.jpeg)
+![]()
 
 ![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/diagrama%20para%20v2%200.jpg)
 
