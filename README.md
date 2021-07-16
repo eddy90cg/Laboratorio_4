@@ -146,7 +146,7 @@ Para poder encontrar los valores de la corriente para cada malla se aplicaron lo
 
 <img src="https://latex.codecogs.com/gif.latex?\begin{matrix}&space;\textrm{Malla&space;2}\\&space;-0.82I_2-0.68I_2-0.47(I_1-I_2)=0&space;&\\&space;0.47I_1-1.97I_2=0&space;&&space;\textrm{Ecuaci\'on&space;(2)}&space;\end{matrix}" title="\begin{matrix} \textrm{Malla 2}\\ -0.82I_2-0.68I_2-0.47(I_1-I_2)=0 &\\ 0.47I_1-1.97I_2=0 & \textrm{Ecuaci\'on (2)} \end{matrix}" />
 
-Tenemos el siguiente sistema de ecuaciones:
+* Tenemos el siguiente sistema de ecuaciones:
 
 <img src="https://latex.codecogs.com/gif.latex?\begin{cases}&space;-0.47I_1&plus;0.47I_2=-12\\&space;0.47I_1-1.97I_2=0\\&space;\end{cases}" title="\begin{cases} -0.47I_1+0.47I_2=-12\\ 0.47I_1-1.97I_2=0\\ \end{cases}" />
 
@@ -170,8 +170,23 @@ Tenemos el siguiente sistema de ecuaciones:
 
 ![](https://github.com/eddy90cg/Laboratorio_4/blob/main/Img/Circuito%20Simplificado%20con%20Fuente%20de%2020V.jpeg)
 
+* Luego encontramos las ecuaciones de cada una de las mallas generadas:
 
+<img src="https://latex.codecogs.com/gif.latex?\begin{matrix}&space;\textrm{Malla&space;1}\\&space;20-I_1-2.2(I_1-I_2)=0\\&space;-3.2I_1&plus;2.2I_2=-20&space;&&space;\textrm{Ecuaci\'on&space;(1)}&space;\end{matrix}" title="\begin{matrix} \textrm{Malla 1}\\ 20-I_1-2.2(I_1-I_2)=0\\ -3.2I_1+2.2I_2=-20 & \textrm{Ecuaci\'on (1)} \end{matrix}" />
 
+<img src="https://latex.codecogs.com/gif.latex?\begin{matrix}&space;\textrm{Malla&space;2}\\&space;-1.29I_2-2,2(I_2-I_1)=0\\&space;2.2I_1-3.49I_2=0&space;&&space;\textrm{Ecuaci\'on&space;(2)}&space;\end{matrix}" title="\begin{matrix} \textrm{Malla 2}\\ -1.29I_2-2,2(I_2-I_1)=0\\ 2.2I_1-3.49I_2=0 & \textrm{Ecuaci\'on (2)} \end{matrix}" />
+
+* Tenemos el siguiente sistema de ecuaciones:
+
+<img src="https://latex.codecogs.com/gif.latex?\begin{cases}&space;-3.2I_1&plus;2.2I_2=-20\\&space;2.2I_1-3.49I_2=0&space;&&space;\end{cases}" title="\begin{cases} -3.2I_1+2.2I_2=-20\\ 2.2I_1-3.49I_2=0 & \end{cases}" />
+
+* Finalmente encontramos <img src="https://latex.codecogs.com/gif.latex?I_1\&space;e\&space;I_2" title="I_1\ e\ I_2" /> , tambien encontraremos **VA** mediante la **Ley de Ohm**
+
+<img src="https://latex.codecogs.com/gif.latex?I_1=11.03\&space;mA" title="I_1=11.03\ mA" />
+
+<img src="https://latex.codecogs.com/gif.latex?I_2=I_X=6.95\&space;mA" title="I_2=I_X=6.95\ mA" />
+
+<img src="https://latex.codecogs.com/gif.latex?\textrm{Ley&space;de&space;Ohm}\\&space;\\&space;I=\frac{V}{R}\\&space;\\&space;V_A=I_2\cdot&space;R_{0.82}=6.95(0.82)=5.69\&space;V" title="\textrm{Ley de Ohm}\\ \\ I=\frac{V}{R}\\ \\ V_A=I_2\cdot R_{0.82}=6.95(0.82)=5.69\ V" />
 
 * Obtenemos como resultados finales para el circuito total:
 
