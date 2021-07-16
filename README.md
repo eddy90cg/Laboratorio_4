@@ -188,9 +188,11 @@ Para poder encontrar los valores de la corriente para cada malla se aplicaron lo
 
 <img src="https://latex.codecogs.com/gif.latex?\textrm{Ley&space;de&space;Ohm}\\&space;\\&space;I=\frac{V}{R}\\&space;\\&space;V_A=I_2\cdot&space;R_{0.82}=6.95(0.82)=5.69\&space;V" title="\textrm{Ley de Ohm}\\ \\ I=\frac{V}{R}\\ \\ V_A=I_2\cdot R_{0.82}=6.95(0.82)=5.69\ V" />
 
-* Obtenemos como resultados finales para el circuito total:
+* Con los valores obtenidos anteriormente **Ix** y **VA**:
 
-![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/calculos%20finales.jpg)
+
+
+
 
 Formula a aplicar para el calculo del ERROR: 
 
