@@ -95,7 +95,7 @@ Donde Vo1 es la salida forzada o resultante de la influencia de la fuente de ten
 
 # 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
-Tabla de Registro de datos tomados para (VA):
+Tabla de Registro de datos tomados para **(VA)**:
 
 |**Voltaje Total (VA)**||**Voltaje Total de (VA) cuando V2 equivale a 0**||**Voltaje Total de (VA) cuando V1 equivale a 0**||
 | :----------: | :----:| :----------: | :-----: | :------------------: | :-----: | 
@@ -109,7 +109,7 @@ Porcentaje de Error Obtenido
 | **Error** | <img src="https://latex.codecogs.com/svg.latex?-10.65\&space;%" title="-10.65\ %" /> | <img src="https://latex.codecogs.com/svg.latex?-0.02\&space;%" title="-0.02\ %" /> | <img src="https://latex.codecogs.com/svg.latex?0.45\&space;%" title="0.45\ %" /> |
 
 
-Tabla de Registro de datos tomados para (Ix):
+Tabla de Registro de datos tomados para **(Ix)**:
 
 
 ![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/tabla%20de%20resultados%20excel.jpg)
