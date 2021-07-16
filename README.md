@@ -75,6 +75,10 @@ Aplicando superposición sabemos que:
  
 Donde Vo1 es la salida forzada o resultante de la influencia de la fuente de tensión V1 con la fuente de corriente apagada. Así mismo, Vo2 es la salida forzada o resultante de la influencia de la fuente de corriente I1 con la fuente de tensión apagada.
 
+* Equipos y Materiales necesarios: 
+
+![](https://github.com/eddy90cg/Laboratorio_4/blob/main/Img/Equipos%20y%20Materiales.jpg)
+
 * Figura, Circuito Teórico para el análisis de mallas:
 
 ![](https://github.com/eddy90cg/Laboratorio_4/blob/main/Img/Diagrama%20Esquematico%20de%20Circuito.jpeg)
