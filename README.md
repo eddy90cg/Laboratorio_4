@@ -41,9 +41,8 @@ El principio de superposición establece que la respuesta (una corriente o tensi
 
 * Mentefacto:
 
-------------------------
-----------------------
----------------------
+![](https://github.com/eddy90cg/Laboratorio_4/blob/main/Img/Mentefacto_Laboratorio_4.jpeg)
+
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
  
