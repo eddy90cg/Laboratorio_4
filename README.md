@@ -150,7 +150,7 @@ Tenemos el siguiente sistema de ecuaciones:
 
 <img src="https://latex.codecogs.com/gif.latex?\begin{cases}&space;-0.47I_1&plus;0.47I_2=-12\\&space;0.47I_1-1.97I_2=0\\&space;\end{cases}" title="\begin{cases} -0.47I_1+0.47I_2=-12\\ 0.47I_1-1.97I_2=0\\ \end{cases}" />
 
-Finalmente encontramos <img src="https://latex.codecogs.com/gif.latex?I_1\&space;e\&space;I_2" title="I_1\ e\ I_2" /> , tambien encontraremos **VA** mediante la **Ley de Ohm**
+* Finalmente encontramos <img src="https://latex.codecogs.com/gif.latex?I_1\&space;e\&space;I_2" title="I_1\ e\ I_2" /> , tambien encontraremos **VA** mediante la **Ley de Ohm**
 
 <img src="https://latex.codecogs.com/gif.latex?I_1=I_X=33.53\&space;mA" title="I_1=I_X=33.53\ mA" />
 
@@ -168,7 +168,9 @@ Finalmente encontramos <img src="https://latex.codecogs.com/gif.latex?I_1\&space
 
 * Y obtenemos el siguiente circuito:
 
-![]()
+![](https://github.com/eddy90cg/Laboratorio_4/blob/main/Img/Circuito%20Simplificado%20con%20Fuente%20de%2020V.jpeg)
+
+
 
 
 * Obtenemos como resultados finales para el circuito total:
