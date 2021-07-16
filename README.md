@@ -190,9 +190,9 @@ Para poder encontrar los valores de la corriente para cada malla se aplicaron lo
 
 * Con los valores obtenidos anteriormente **Ix** y **VA**:
 
+<img src="https://latex.codecogs.com/gif.latex?\textrm{Para&space;$&space;I_X\&space;Total&space;$&space;tenemos:}\\&space;I_X=33.53-6.95\\&space;I_X=26.58\&space;mA" title="\textrm{Para $ I_X\ Total $ tenemos:}\\ I_X=33.53-6.95\\ I_X=26.58\ mA" />
 
-
-
+<img src="https://latex.codecogs.com/gif.latex?\textrm{Para&space;$&space;V_A\&space;Total&space;$&space;tenemos:}\\&space;V_A=6.56-5.69\\&space;V_A=0.87\&space;V=870\&space;mV" title="\textrm{Para $ V_A\ Total $ tenemos:}\\ V_A=6.56-5.69\\ V_A=0.87\ V=870\ mV" />
 
 Formula a aplicar para el calculo del ERROR: 
 
