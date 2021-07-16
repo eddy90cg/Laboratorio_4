@@ -158,7 +158,9 @@ Finalmente encontramos <img src="https://latex.codecogs.com/gif.latex?I_1\&space
 
 <img src="https://latex.codecogs.com/gif.latex?\textrm{Ley&space;de&space;Ohm}\\&space;\\&space;I=\frac{V}{R}\\&space;\\&space;V_A=I_2\cdot&space;R_{0.82}=8(0.82)=6.56\&space;V" title="\textrm{Ley de Ohm}\\ \\ I=\frac{V}{R}\\ \\ V_A=I_2\cdot R_{0.82}=8(0.82)=6.56\ V" />
 
-![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/calculos.jpg)
+* Ahora realizaremos el mismo proceso reemplazando la fuente de **12 V** por un cortocircuito:
+
+
 
 * Obtenemos como resultados finales para el circuito total:
 
