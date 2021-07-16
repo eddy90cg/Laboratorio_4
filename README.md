@@ -126,9 +126,9 @@ Porcentaje de Error Obtenido para **(Ix)**:
 | **Error** | <img src="https://latex.codecogs.com/svg.latex?8.26\&space;%" title="8.26\ %" /> | <img src="https://latex.codecogs.com/svg.latex?0\&space;%" title="0\ %" /> | <img src="https://latex.codecogs.com/svg.latex?0.08\&space;%" title="0.08\ %" /> |
 
 
-Para poder econtrar los valores de la corriente para cada malla se aplicaron los sigueintes calulos:
+Para poder encontrar los valores de la corriente para cada malla se aplicaron los siguientes cálculos:
 
-* observamos las fuentes y aplicamos teoremas de superposicion:
+* Primero reemplazamos la fuente de 20 V por un corto circuito:
 
 ![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/diagrama%20para%20v1%200.jpg)
 
