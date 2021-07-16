@@ -109,7 +109,7 @@ Porcentaje de Error Obtenido para **(VA)**:
 
 |      |**Voltaje Total (VA)**|**Voltaje Total de (VA) cuando V2 equivale a 0**|**Voltaje Total de (VA) cuando V1 equivale a 0**|
 |:----:| :----------: | :----:| :----------: |
-| **Error** | <img src="https://latex.codecogs.com/svg.latex?-10.65\&space;%" title="-10.65\ %" /> | <img src="https://latex.codecogs.com/svg.latex?-0.02\&space;%" title="-0.02\ %" /> | <img src="https://latex.codecogs.com/svg.latex?0.45\&space;%" title="0.45\ %" /> |
+| **Error** | <img src="https://latex.codecogs.com/gif.latex?-9.42\&space;%" title="-9.42\ %" /> | <img src="https://latex.codecogs.com/svg.latex?-0.02\&space;%" title="-0.02\ %" /> | <img src="https://latex.codecogs.com/svg.latex?0.45\&space;%" title="0.45\ %" /> |
 
 
 Tabla de Registro de datos tomados para **(Ix)**:
