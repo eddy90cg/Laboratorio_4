@@ -103,7 +103,7 @@ Tabla de Registro de datos tomados para **(VA)**:
 |**Voltaje Total (VA)**||**Voltaje Total de (VA) cuando V2 equivale a 0**||**Voltaje Total de (VA) cuando V1 equivale a 0**||
 | :----------: | :----:| :----------: | :-----: | :------------------: | :-----: | 
 | **Calculado**|**Medido**|**Calculado**|**Medido**|**Calculado**|**Medido**|
-|<img src="https://latex.codecogs.com/svg.latex?861\&space;mV" title="861\ mV" /> |<img src="https://latex.codecogs.com/svg.latex?952\&space;mV" title="952\ mV" /> |<img src="https://latex.codecogs.com/svg.latex?5.69\&space;V" title="5.69\ V" /> |<img src="https://latex.codecogs.com/svg.latex?5.70\&space;V" title="5.70\ V" /> |<img src="https://latex.codecogs.com/svg.latex?6.56\&space;V" title="6.56\ V" /> |<img src="https://latex.codecogs.com/svg.latex?6.53\&space;V" title="6.53\ V" /> |
+|<img src="https://latex.codecogs.com/gif.latex?870\&space;mV" title="870\ mV" /> |<img src="https://latex.codecogs.com/svg.latex?952\&space;mV" title="952\ mV" /> |<img src="https://latex.codecogs.com/svg.latex?5.69\&space;V" title="5.69\ V" /> |<img src="https://latex.codecogs.com/svg.latex?5.70\&space;V" title="5.70\ V" /> |<img src="https://latex.codecogs.com/svg.latex?6.56\&space;V" title="6.56\ V" /> |<img src="https://latex.codecogs.com/svg.latex?6.53\&space;V" title="6.53\ V" /> |
 
 Porcentaje de Error Obtenido para **(VA)**:
 
@@ -194,7 +194,7 @@ Para poder encontrar los valores de la corriente para cada malla se aplicaron lo
 
 <img src="https://latex.codecogs.com/gif.latex?\textrm{Para&space;$&space;V_A\&space;Total&space;$&space;tenemos:}\\&space;V_A=6.56-5.69\\&space;V_A=0.87\&space;V=870\&space;mV" title="\textrm{Para $ V_A\ Total $ tenemos:}\\ V_A=6.56-5.69\\ V_A=0.87\ V=870\ mV" />
 
-Formula a aplicar para el calculo del ERROR: 
+* Formula a aplicar para el calculo del ERROR: 
 
 <img src="https://latex.codecogs.com/gif.latex?\mathrm{Porcentaje\&space;de\&space;Error\&space;en\&space;el\&space;Voltaje:}&space;\\&space;\\&space;%\&space;Error&space;=&space;\frac{V_T(Teorico)-V_T(Practico)}{V_T(Teorico)}\times&space;100" title="\mathrm{Porcentaje\ de\ Error\ en\ el\ Voltaje:} \\ \\ %\ Error = \frac{V_T(Teorico)-V_T(Practico)}{V_T(Teorico)}\times 100" />
 
