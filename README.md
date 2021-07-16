@@ -86,13 +86,13 @@ Donde Vo1 es la salida forzada o resultante de la influencia de la fuente de ten
 
 ![](https://github.com/eddy90cg/Laboratorio_4/blob/main/Img/Simulacion%20de%20Circuito.jpeg)
 
-*  Circuito Experimental con v1 cortocircuitado:
+*  Circuito Experimental con **V1** cortocircuitado:
 
-![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/circuito%20simulado%20v1%200.jpg)
+![](https://github.com/eddy90cg/Laboratorio_4/blob/main/Img/Simulacion%20sin%20fuente%20de%2020V.jpeg)
 
-*  Circuito Experimental con v2 cortocircuitado:
+*  Circuito Experimental con **V2** cortocircuitado:
 
-![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/circuito%20simulado%20v2%200.jpg)
+![](https://github.com/eddy90cg/Laboratorio_4/blob/main/Img/Simulacion%20sin%20fuente%20de%2012V.jpeg)
 
 
 
