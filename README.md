@@ -164,7 +164,11 @@ Finalmente encontramos <img src="https://latex.codecogs.com/gif.latex?I_1\&space
 
 * Encontramos la resistencia equivalente entre las resistencias de **820 Ohm** y **470 Ohm**
 
+<img src="https://latex.codecogs.com/gif.latex?\frac{1}{Req}=\frac{0.82&plus;0.47}{(0.82)(0.47)}=1.29\&space;k&space;\Omega" title="\frac{1}{Req}=\frac{0.82+0.47}{(0.82)(0.47)}=1.29\ k \Omega" />
 
+* Y obtenemos el siguiente circuito:
+
+![]()
 
 
 * Obtenemos como resultados finales para el circuito total:
