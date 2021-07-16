@@ -160,6 +160,11 @@ Finalmente encontramos <img src="https://latex.codecogs.com/gif.latex?I_1\&space
 
 * Ahora realizaremos el mismo proceso reemplazando la fuente de **12 V** por un cortocircuito:
 
+![](https://github.com/eddy90cg/Laboratorio_4/blob/main/Img/Fuente%20de%2012V%20Circuitada.jpeg)
+
+* Encontramos la resistencia equivalente entre las resistencias de **820 Ohm** y **470 Ohm**
+
+
 
 
 * Obtenemos como resultados finales para el circuito total:
